@@ -30,9 +30,7 @@ The project includes data cleaning, exploratory data analysis, visualization usi
 - Seaborn
 - Power BI
 
-## 📊 Dashboard Preview
 
-(Add your dashboard screenshot here)
 
 ## 📌 Key Insights
 
